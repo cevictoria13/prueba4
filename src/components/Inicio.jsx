@@ -2,7 +2,7 @@ function Inicio()  {
     return (
         <div>
             <img
-            src="../assets/afiche-ajustado.png"
+            src="/sancho/src/assets/afiche-ajustado.png"
             alt=""
             />
         </div>
