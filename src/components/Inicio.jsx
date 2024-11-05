@@ -2,7 +2,8 @@ function Inicio()  {
     return (
         <div>
             <img
-            src="/sancho/src/assets/afiche-ajustado.png"
+            className="portada"
+            src="/sancho/public/afiche-ajustado.png"
             alt=""
             />
         </div>
