@@ -1,5 +1,5 @@
 import Inicio from './components/Inicio';
-function App  ()  {
+function App ()  {
     
       return <Inicio />;
     
