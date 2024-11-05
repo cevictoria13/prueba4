@@ -1,12 +1,13 @@
+import afiche from '../assets/afiche.png'
+
 function Inicio()  {
     return <div>
-        
-            <img
-            className="portada"
-            src="/sancho/public/afiche-ajustado.png"
-            alt=""
-            />
-            </div>
+       <img src={afiche}
+       />
+            
+    </div>
 }
 
 export default Inicio;
+
+
